@@ -1,5 +1,5 @@
-# asath-professional-8.1-zh_CN
-asath professional 8.1 zh_CN 汉化资源
+# astah-professional-8.1-zh_CN
+astah professional 8.1 zh_CN 汉化资源
 [汉化资源地址](http://astah.net/features/gui-localization)
 
 修改
